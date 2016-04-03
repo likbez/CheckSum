@@ -1,5 +1,5 @@
 /**
- * todo: Сделать проверку на пустые строки.
+ * Получение хеш-суммы с последующим сравнением.
  * */
 
 import java.awt.event.ItemEvent;
@@ -205,9 +205,3 @@ public class main {
         });
     }
 }
-/**
- * private static final String ALGORITHM = "SHA-1";
- *Например, доступными алгоритмами являются "SHA-256" и "MD5":
- *private static final String ALGORITHM = "SHA-256";
- *private static final String ALGORITHM = "MD5";
- * */
